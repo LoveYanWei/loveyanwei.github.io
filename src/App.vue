@@ -39,7 +39,7 @@
     <!-- love phrase  -->
     <div class="phrase-container">
       <div id="phrase">
-        1st anniversary countdown with Wei
+        1st anniversary countdown with you
       </div>
     </div>
   </div>
